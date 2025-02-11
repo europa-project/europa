@@ -5,7 +5,7 @@ Setup
 ---------------------
 Europa Core is the original Europa client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Europa transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Europa Core, visit [europa.org](https://europa.org/).
+To download Europa Core, visit [europa.org](https://europazeus.org/).
 
 Running
 ---------------------
@@ -28,7 +28,7 @@ Drag Europa Core to your applications folder, and then run Europa Core.
 
 ### Need Help?
 
-* See the documentation at the [Europa Wiki](https://europa.info/)
+* See the documentation at the [Europa Wiki](https://europazeus.org/)
 for help and more information.
 * Ask for help on [#europa](http://webchat.freenode.net?channels=europa) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=europa).
 * Ask for help on the [EuropaTalk](https://europatalk.io/) forums, in the [Technical Support section](https://europatalk.io/c/technical-support).
@@ -64,7 +64,7 @@ The Europa repo's [root README](/README.md) contains relevant information on the
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [EuropaTalk](https://europatalk.io/) forums.
+* Discuss on the [EuropaTalk](https://europazeus.org/) forums.
 * Discuss general Europa development on #europa-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=europa-dev.
 
 ### Miscellaneous
